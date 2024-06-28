@@ -134,3 +134,4 @@ D:\Practice Projects\CRUDAPI\CRUDAPI\obj\Debug\net8.0\refint\CRUDAPI.dll
 D:\Practice Projects\CRUDAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.pdb
 D:\Practice Projects\CRUDAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.genruntimeconfig.cache
 D:\Practice Projects\CRUDAPI\CRUDAPI\obj\Debug\net8.0\ref\CRUDAPI.dll
+D:\Practice Projects\CRUDAPI\CRUDAPI\obj\Debug\net8.0\CRUDAPI.sourcelink.json
